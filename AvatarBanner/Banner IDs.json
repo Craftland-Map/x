@@ -1,0 +1,841 @@
+Upto OB44 All Banners {
+901000001    =    S2 Gold    =    Icon_callsign_storebg_rank01_01
+901000002    =    S2 Platinum    =    Icon_callsign_storebg_rank01_02
+901000003    =    S2 Diamond    =    Icon_callsign_storebg_rank01_03
+901000004    =    S2 Heroic    =    Icon_callsign_storebg_rank01_04
+901000005    =    Easter    =    Icon_callsign_storebg_rank01_05
+901000006    =    Tranquil    =    Icon_callsign_storebg_easter
+901000007    =    Sakura    =    Icon_callsign_storebg_watersprinkling
+901000008    =    Origin    =    Icon_callsign_storebg_sakura
+901000009    =    Initial    =    Icon_callsign_storebg_defaultmale
+901000010    =    Ranger    =    Icon_callsign_storebg_defaultfemale
+901000011    =    Sprinter    =    Icon_callsign_storebg_andrew
+901000012    =    Healer    =    Icon_callsign_storebg_kelly
+901000013    =    Seaman    =    Icon_callsign_storebg_oliva
+901000014    =    Bodyguard    =    Icon_callsign_storebg_ford
+901000015    =    Speed    =    Icon_callsign_storebg_nikita
+901000016    =    S3 Silver    =    Icon_callsign_storebg_misa
+901000017    =    S3 Gold    =    Icon_callsign_storebg_rank02_01
+901000018    =    S3 Platinum    =    Icon_callsign_storebg_rank02_02
+901000019    =    S3 Diamond    =    Icon_callsign_storebg_rank02_03
+901000020    =    S3 Heroic    =    Icon_callsign_storebg_rank02_04
+901000021    =    Fury    =    Icon_callsign_storebg_rank02_05
+901000022    =    New World    =    Icon_callsign_storebg_Fury
+901000023    =    Army Green    =    Icon_callsign_storebg_Azeros
+901000024    =    White Coffee    =    Icon_callsign_storebg_rank03_01
+901000025    =    Sapphire    =    Icon_callsign_storebg_rank03_02
+901000026    =    Golden Peak    =    Icon_callsign_storebg_rank03_03
+901000027    =    Watch the sunset    =    Icon_callsign_storebg_rank03_04
+901000028    =    Snow Beauty    =    Icon_callsign_storebg_rank03_05
+901000029    =    Falling Petal    =    Icon_callsign_storebg_SAKULA
+901000030    =    Koi    =    Icon_callsign_storebg_FP_SAKULA
+901000031    =    Taurus    =    Icon_callsign_storebg_EP_SAKULA
+901000032    =    Gemini    =    Icon_callsign_storebg_Taurus
+901000033    =    Happy Tree    =    Icon_callsign_storebg_Gemini
+901000034    =    Maxim    =    Icon_callsign_storebg_ICD
+901000035    =    Football Fantasy    =    Icon_callsign_storebg_Maxim
+901000036    =    Sunny Summer    =    Icon_callsign_storebg_soccer
+901000037    =    Gold Royale    =    Icon_callsign_storebg_summerevent
+901000038    =    Diamond Royale    =    Icon_callsign_storebg_gacha_gold
+901000039    =    Ancient Graffiti    =    Icon_callsign_storebg_gacha_gem
+901000040    =    Doodles    =    Icon_callsign_storebg_hiphop_FP
+901000041    =    Leo    =    Icon_callsign_storebg_hiphop_EP
+901000042    =    Cancer    =    Icon_callsign_storebg_leo
+901000043    =    Art of Eight    =    Icon_callsign_storebg_cancer
+901000044    =    Conception    =    Icon_callsign_storebg_KLA
+901000045    =    S5 Silver    =    Icon_callsign_storebg_hiphop_FP_02
+901000046    =    S5 Gold    =    Icon_callsign_storebg_rank04_01
+901000047    =    S5 Platinum    =    Icon_callsign_storebg_rank04_02
+901000048    =    S5 Diamond    =    Icon_callsign_storebg_rank04_03
+901000049    =    S5 Heroic    =    Icon_callsign_storebg_rank04_04
+901000050    =    Temptation House    =    Icon_callsign_storebg_rank04_05
+901000051    =    Blue Cupid    =    Icon_callsign_storebg_bunny
+901000052    =    Strawberry Love    =    Icon_callsign_storebg_love_male
+901000053    =    Taekwondo    =    Icon_callsign_storebg_love_female
+901000054    =    Reversal    =    Icon_callsign_storebg_taekwondo
+901000055    =    Discord    =    Icon_callsign_storebg_wasteland_FP
+901000056    =    Violence    =    Icon_callsign_storebg_wasteland_EP_01
+901000057    =    Royal Room    =    Icon_callsign_storebg_wasteland_EP_02
+901000058    =    Royal Palace    =    Icon_callsign_storebg_royalty_FP
+901000059    =    Royal Throne    =    Icon_callsign_storebg_royalty_EP_01
+901000060    =    Paloma    =    Icon_callsign_storebg_royalty_EP_02
+901000061    =    Special Forces    =    Icon_callsign_storebg_armsdealer
+901000062    =    To the Seas    =    Icon_callsign_storebg_miguel
+901000063    =    Dark Sail    =    Icon_callsign_storebg_pirate_ep1
+901000064    =    Set Sail    =    Icon_callsign_storebg_pirate_ep2
+901000065    =    Circus Troupe    =    Icon_callsign_storebg_pirate_fp
+901000066    =    Mysterious Clown    =    Icon_callsign_storebg_circus
+901000067    =    Promoted Banner    =    Icon_callsign_storebg_clown
+901000068    =    Gear Master    =    Icon_callsign_storebg_level_up
+901000069    =    Overload    =    Icon_callsign_storebg_steampunk_ep1
+901000070    =    World of Machines    =    Icon_callsign_storebg_steampunk_ep2
+901000071    =    Loading...    =    Icon_callsign_storebg_steampunk_fp
+901000072    =    World Without Depth    =    Icon_callsign_storebg_8bit_ep1
+901000073    =    To The Right    =    Icon_callsign_storebg_8bit_ep2
+901000074    =    Caroline's Grace    =    Icon_callsign_storebg_8bit_fp
+901000075    =    Survivor's Silver    =    Icon_callsign_storebg_caroline
+901000076    =    Fighter's Gold    =    Icon_callsign_storebg_rank6_01
+901000077    =    Warrior's Platinum    =    Icon_callsign_storebg_rank6_02
+901000078    =    Hero's Diamond    =    Icon_callsign_storebg_rank6_03
+901000079    =    Champion's Crimson    =    Icon_callsign_storebg_rank6_04
+901000080    =    Ghost Town    =    Icon_callsign_storebg_rank6_05
+901000081    =    Haunted House    =    Icon_callsign_storebg_halloween_pumpkin
+901000082    =    Midnight Bats    =    Icon_callsign_storebg_halloween_ghost
+901000083    =    Top Gamer Banner    =    Icon_callsign_storebg_halloween_witchhat
+901000084    =    Top Mercenary    =    Icon_callsign_storebg_gangleader
+901000085    =    Top Mercenary    =    Icon_callsign_storebg_gangleader
+901000086    =    Top Mercenary    =    Icon_callsign_storebg_gangleader
+901000087    =    Purple Strike    =    Icon_callsign_storebg_biobody_EP1
+901000088    =    Top Mercenary (White)    =    Icon_callsign_storebg_biobody_EP2
+901000089    =    Snowy Day    =    Icon_callsign_storebg_biobody_FP1
+901000090    =    Winter Candies    =    Icon_callsign_storebg_christmas_bear
+901000091    =    The Deer and the Bell    =    Icon_callsign_storebg_christmas_gift
+901000092    =    Star General's Banner    =    Icon_callsign_storebg_christmas_santa
+901000093    =    Wukong- The Legend    =    Icon_callsign_storebg_general
+901000094    =    Season 7 Silver Banner    =    Icon_callsign_storebg_monkeygod
+901000095    =    Season 7 Gold Banner    =    Icon_callsign_storebg_rank7_01
+901000096    =    Season 7 Platinum Banner    =    Icon_callsign_storebg_rank7_02
+901000097    =    Season 7 Diamond Banner    =    Icon_callsign_storebg_rank7_03
+901000098    =    Season 7 Heroic Banner    =    Icon_callsign_storebg_rank7_04
+901000099    =    Deadly Skull    =    Icon_callsign_storebg_rank7_05
+901000100    =    Purple Explosion    =    Icon_callsign_storebg_bombsquad_ep_01
+901000101    =    Big Boom    =    Icon_callsign_storebg_bombsquad_ep_02
+901000102    =    Carnival is Here!    =    Icon_callsign_storebg_bombsquad_fp
+901000103    =    Year of the Boar    =    Icon_callsign_storebg_carnival
+901000104    =    Egyptian Warrior    =    Icon_callsign_storebg_cny2019
+901000105    =    The Undisclosed    =    Icon_callsign_storebg_egypt_ep_01
+901000106    =    Desert View    =    Icon_callsign_storebg_egypt_ep_02
+901000107    =    Digital Flame    =    Icon_callsign_storebg_egypt_fp
+901000108    =    The doctor of the Plague    =    Icon_callsign_storebg_Moco
+901000109    =    Season 8 Gold Banner    =    Icon_callsign_storebg_rank01_01
+901000110    =    Season 8 Gold Banner    =    Icon_callsign_storebg_rank01_01
+901000111    =    Season 8 Gold Banner    =    Icon_callsign_storebg_rank01_01
+901000112    =    Season 8 Platinum Banner    =    Icon_callsign_storebg_rank01_02
+901000113    =    Season 8 Diamond Banner    =    Icon_callsign_storebg_rank01_03
+901000114    =    Season 8 Heroic Banner    =    Icon_callsign_storebg_rank01_04
+901000115    =    Pink Roses    =    Icon_callsign_storebg_rank01_05
+901000116    =    Romantic Love    =    Icon_callsign_storebg_valentine_female
+901000117    =    The Dragon Trainer    =    Icon_callsign_storebg_valentine_male
+901000118    =    Dragon of the Flame    =    Icon_callsign_storebg_dragons_EP_01
+901000119    =    Dragon's Eye    =    Icon_callsign_storebg_dragons_EP_02
+901000120    =    Season 9 Silver    =    Icon_callsign_storebg_dragons_FP
+901000121    =    Season 9 Gold Banner    =    Icon_callsign_storebg_rank09_01
+901000122    =    Season 9 Platinum Banner    =    Icon_callsign_storebg_rank09_02
+901000123    =    Season 9 Diamond Banner    =    Icon_callsign_storebg_rank09_03
+901000124    =    Season 9 Heroic Banner    =    Icon_callsign_storebg_rank09_04
+901000125    =    Life of Hayato    =    Icon_callsign_storebg_rank09_05
+901000126    =    Space Bunny    =    Icon_callsign_storebg_hayato
+901000127    =    Egg Madness    =    Icon_callsign_storebg_easter_01
+901000128    =    Blood Moon's Night    =    Icon_callsign_storebg_easter_02
+901000129    =    Summer Seas    =    Icon_callsign_storebg_bloodmoon
+901000130    =    FFWC Banner    =    Icon_callsign_storebg_songkran
+901000131    =    The Panther    =    Icon_callsign_storebg_gw
+901000132    =    Mechanical Panther    =    Icon_callsign_storebg_jajuar_EP_01
+901000133    =    Deadly Panther    =    Icon_callsign_storebg_jajuar_EP_02
+901000134    =    The Apocalypse    =    Icon_callsign_storebg_jajuar_FP
+901000135    =    Day of Death    =    Icon_callsign_storebg_apocalypse_01
+901000136    =    Mask of Death    =    Icon_callsign_storebg_apocalypse_02
+901000137    =    Ultimate Warfare    =    Icon_callsign_storebg_EP_WarDeath01
+901000138    =    Deadly Blow    =    Icon_callsign_storebg_EP_WarDeath02
+901000139    =    Season 10 Silver Banner    =    Icon_callsign_storebg_FP_WarDeath01
+901000140    =    Season 10 Gold Banner    =    Icon_callsign_storebg_rank10_01
+901000141    =    Season 10 Platinum Banner    =    Icon_callsign_storebg_rank10_02
+901000142    =    Season 10 Diamond Banner    =    Icon_callsign_storebg_rank10_03
+901000143    =    Season 10 Heroic Banner    =    Icon_callsign_storebg_rank10_04
+901000144    =    Special Agent    =    Icon_callsign_storebg_rank10_05
+901000145    =    Beast of the Galaxy    =    Icon_callsign_storebg_Agent
+901000146    =    Space Creature    =    Icon_callsign_storebg_StarSoul01
+901000147    =    Viking's War    =    Icon_callsign_storebg_StarSoul02
+901000148    =    Full Metal Wolverine    =    Icon_callsign_storebg_Vikings
+901000149    =    Brush Paint    =    Icon_callsign_storebg_Jinroh
+901000150    =    Biochemical Weapon    =    Icon_callsign_storebg_Huamulan
+901000151    =    Hidden Blade    =    Icon_callsign_storebg_apocalypse02
+901000152    =    Ancient Treasure    =    Icon_callsign_storebg_apocalypse01
+901000153    =    Grand Desert    =    Icon_callsign_storebg_Desert_EP_01
+901000154    =    Heat Wave    =    Icon_callsign_storebg_Desert_EP_02
+901000155    =    Hunter - Bermuda    =    Icon_callsign_storebg_Desert_FP
+901000156    =    Hunting Ground    =    Icon_callsign_storebg_Hunter_EP_01
+901000157    =    Hunter's Voice    =    Icon_callsign_storebg_Hunter_EP_02
+901000158    =    Season 11 Silver Banner    =    Icon_callsign_storebg_Hunter_FP
+901000159    =    Season 11 Gold Banner    =    Icon_callsign_storebg_rank11_01
+901000160    =    Season 11 Platinum Banner    =    Icon_callsign_storebg_rank11_02
+901000161    =    Season 11 Diamond Banner    =    Icon_callsign_storebg_rank11_03
+901000162    =    Season 11 Heroic Banner    =    Icon_callsign_storebg_rank11_04
+901000163    =    Deadly Killer    =    Icon_callsign_storebg_rank11_05
+901000164    =    Force of Water    =    Icon_callsign_storebg_16_Hitman
+901000165    =    Force of Fire    =    Icon_callsign_storebg_16_Water
+901000166    =    Force of Earth    =    Icon_callsign_storebg_16_Fire
+901000167    =    Force of Lightning    =    Icon_callsign_storebg_16_Earth
+901000168    =    Perfect Tempo    =    Icon_callsign_storebg_16_Electricity
+901000169    =    Brick Warrior    =    Icon_callsign_storebg_16_DJ
+901000170    =    Bermuda Banner    =    Icon_callsign_storebg_16_Lego
+901000171    =    Purgatory Banner    =    Icon_callsign_storebg_16_Manual_01
+901000172    =    Grandmaster Banner    =    Icon_callsign_storebg_16_Manual_02
+901000173    =    The Black Widow    =    Icon_callsign_storebg_rank_match
+901000174    =    The Golden    =    Icon_callsign_storebg_black_widow
+901000175    =    Guild Banner    =    Icon_callsign_storebg_fire_pass
+901000176    =    Mad Cowboy    =    Icon_callsign_storebg_VN_CW
+901000177    =    The Western Rider    =    Icon_callsign_storebg_Cowboymk2_EP_A
+901000178    =    Top Cowboy    =    Icon_callsign_storebg_Cowboymk2_EP_B
+901000179    =    Blood Rush    =    Icon_callsign_storebg_Cowboymk2_FP
+901000180    =    Blood Price    =    Icon_callsign_storebg_Bloodmoonmk2_EP_A
+901000181    =    Blood Revenge    =    Icon_callsign_storebg_Bloodmoonmk2_EP_B
+901000182    =    Season 12 Silver Banner    =    Icon_callsign_storebg_Bloodmoonmk2_FP
+901000183    =    Season 12 Gold Banner    =    Icon_callsign_storebg_Rank12_01
+901000184    =    Season 12 Platinum Banner    =    Icon_callsign_storebg_Rank12_02
+901000185    =    Season 12 Diamond Banner    =    Icon_callsign_storebg_Rank12_03
+901000186    =    Season 12 Heroic Banner    =    Icon_callsign_storebg_Rank12_04
+901000187    =    A124's Banner    =    Icon_callsign_storebg_Rank12_05
+901000188    =    Joseph's Banner    =    Icon_callsign_storebg_MadeManA
+901000189    =    Anniversary Banner    =    Icon_callsign_storebg_Playboy
+901000190    =    Scary Vampire    =    Icon_callsign_storebg_Anniversary
+901000191    =    Delightful Child    =    Icon_callsign_storebg_Vampire
+901000193    =    FFC S1 Champions    =    Icon_callsign_storebg_Mexico
+901000194    =    FFC S1 Second Place    =    Icon_callsign_storebg_1st
+901000195    =    FFC S1 Third Place    =    Icon_callsign_storebg_2nd
+901000196    =    FFC S1 Top 50    =    Icon_callsign_storebg_3rd
+901000197    =    FFC S1 Top 100    =    Icon_callsign_storebg_top50
+901000198    =    Ship of Death    =    Icon_callsign_storebg_top100
+901000199    =    The Flag    =    Icon_callsign_storebg_Piratemk2_EP_A
+901000200    =    The Helm of the Fleet    =    Icon_callsign_storebg_Piratemk2_EP_B
+901000201    =    The Red Goalie    =    Icon_callsign_storebg_Piratemk2_FP
+901000202    =    Story of the Skull    =    Icon_callsign_storebg_Hockeygoalie_EP_A
+901000203    =    The Deadly Cross    =    Icon_callsign_storebg_Hockeygoalie_EP_B
+901000204    =    Season 13 Silver Banner    =    Icon_callsign_storebg_Hockeygoalie_FP
+901000206    =    Season 13 Platinum Banner    =    Icon_callsign_storebg_Rank13_02
+901000207    =    Season 13 Diamond Banner    =    Icon_callsign_storebg_Rank13_03
+901000208    =    Season 13 Heroic Banner    =    Icon_callsign_storebg_Rank13_04
+901000209    =    The Story of Shani    =    Icon_callsign_storebg_Rank13_05
+901000210    =    The Sound of the Beat    =    Icon_callsign_storebg_JunkEngineer
+901000211    =    The Lab Giant Banner    =    Icon_callsign_storebg_Djman
+901000212    =    Zombie's Revenge    =    Icon_callsign_storebg_Franken
+901000213    =    Skeleton's Forge    =    Icon_callsign_storebg_MummyGirl
+901000214    =    Tail of the Skull Lord    =    Icon_callsign_storebg_SkullMale
+901000215    =    Spirit- Focus    =    Icon_callsign_storebg_SkullFemale
+901000216    =    Spirit- Inspiration    =    Icon_callsign_storebg_Spirit01
+901000217    =    Spirit- Reflex    =    Icon_callsign_storebg_Spirit02
+901000218    =    Spirit- Experience    =    Icon_callsign_storebg_Spirit03
+901000219    =    The Tale of the Dead    =    Icon_callsign_storebg_Spirit04
+901000220    =    Skull Collection    =    Icon_callsign_storebg_DayOfDead
+901000221    =    Grab the Mic    =    Icon_callsign_storebg_Headhunters
+901000222    =    Own the Stage    =    Icon_callsign_storebg_Traphiphop_EP_A
+901000223    =    Lyrical Madness    =    Icon_callsign_storebg_Traphiphop_EP_B
+901000224    =    Stealth and Patience    =    Icon_callsign_storebg_Traphiphop_FP
+901000225    =    Honor and Loyalty    =    Icon_callsign_storebg_Ninjas_EP_A
+901000226    =    Skill Dominance    =    Icon_callsign_storebg_Ninjas_EP_B
+901000227    =    Season 14 Silver Banner    =    Icon_callsign_storebg_Ninjas_FP
+901000228    =    Season 14 Gold Banner    =    Icon_callsign_storebg_Rank14_01
+901000229    =    Season 14 Platinum Banner    =    Icon_callsign_storebg_Rank14_02
+901000230    =    Season 14 Diamond Banner    =    Icon_callsign_storebg_Rank14_03
+901000231    =    Season 14 Heroic Banner    =    Icon_callsign_storebg_Rank14_04
+901000232    =    Notora's Banner    =    Icon_callsign_storebg_Rank14_05
+901000233    =    Destruction maximized!    =    Icon_callsign_storebg_Tomboy
+901000234    =    Winterlands 2019 Festivity    =    Icon_callsign_storebg_Demolitionist
+901000235    =    Winterlands 2019 Celebration    =    Icon_callsign_storebg_Icefestival_A
+901000236    =    Lunar New Year 2020    =    Icon_callsign_storebg_Icefestival_B
+901000237    =    Well Done!    =    Icon_callsign_storebg_Cnnewyear19
+901000238    =    Radioactive Yellow    =    Icon_callsign_storebg_IcefestivalLike
+901000239    =    Atomic Blast    =    Icon_callsign_storebg_Nuclear_EP_A
+901000240    =    Toxic Sludge    =    Icon_callsign_storebg_Nuclear_EP_B
+901000241    =    Jaw Crunch    =    Icon_callsign_storebg_Nuclear_FP
+901000242    =    Agent Paws    =    Icon_callsign_storebg_Furryspy_EP_A
+901000243    =    Agent Fox    =    Icon_callsign_storebg_Furryspy_EP_B
+901000244    =    Season 15 Silver Banner    =    Icon_callsign_storebg_Furryspy_FP
+901000245    =    Season 15 Gold Banner    =    Icon_callsign_storebg_Rank15_01
+901000246    =    Season 15 Platinum Banner    =    Icon_callsign_storebg_Rank15_02
+901000247    =    Season 15 Diamond Banner    =    Icon_callsign_storebg_Rank15_03
+901000248    =    Season 15 Heroic Banner    =    Icon_callsign_storebg_Rank15_04
+901000249    =    Wasteland Empire    =    Icon_callsign_storebg_Rank15_05
+901000250    =    Wasteland Nation    =    Icon_callsign_storebg_Borderlands_A
+901000251    =    The Kendoka    =    Icon_callsign_storebg_Borderlands_B
+901000252    =    Be my Valentine!    =    Icon_callsign_storebg_Kendo
+901000253    =    Extreme Movement!    =    Icon_callsign_storebg_Valentine2020
+901000254    =    Color of Rebels!    =    Icon_callsign_storebg_ParkourGuy
+901000255    =    Fabled Ferals    =    Icon_callsign_storebg_Taggercrewgirl
+901000256    =    Mystic Foxes    =    Icon_callsign_storebg_Fashionfox_EP_A
+901000257    =    Sly Master    =    Icon_callsign_storebg_Fashionfox_EP_B
+901000258    =    Forsaken Creed    =    Icon_callsign_storebg_Fashionfox_FP
+901000259    =    Shadow Custodians    =    Icon_callsign_storebg_Royalguard_EP_A
+901000260    =    Royal Guards    =    Icon_callsign_storebg_Royalguard_EP_B
+901000261    =    Season 16 Silver Banner    =    Icon_callsign_storebg_Royalguard_FP
+901000262    =    Season 16 Gold Banner    =    Icon_callsign_storebg_Rank16_01
+901000263    =    Season 16 Platinum Banner    =    Icon_callsign_storebg_Rank16_02
+901000264    =    Season 16 Diamond Banner    =    Icon_callsign_storebg_Rank16_03
+901000265    =    Season 16 Heroic Banner    =    Icon_callsign_storebg_Rank16_04
+901000266    =    Winning Goal    =    Icon_callsign_storebg_Rank16_05
+901000267    =    Kpop Stardom    =    Icon_callsign_storebg_Soccerstar
+901000268    =    Death is coming    =    Icon_callsign_storebg_Kpopsinger
+901000269    =    Fantasy Egg Hunt    =    Icon_callsign_storebg_Death2020
+901000270    =    Rainbow Egg    =    Icon_callsign_storebg_Eggday_A
+901000271    =    Neon Ridges    =    Icon_callsign_storebg_Eggday_B
+901000272    =    Neon Evolution    =    Icon_callsign_storebg_Spine_A
+901000273    =    View of Kalahari    =    Icon_callsign_storebg_Spine_B
+901000274    =    Livestream    =    Icon_callsign_storebg_Kalahari
+901000275    =    Wings of Victory    =    Icon_callsign_storebg_Anchor_A
+901000276    =    War Fury    =    Icon_callsign_storebg_Anchor_B
+901000277    =    War Rage    =    Icon_callsign_storebg_Apocalypse2_EP_A
+901000278    =    Final Catastrophe    =    Icon_callsign_storebg_Apocalypse2_EP_B
+901000279    =    Sushi Frenzy    =    Icon_callsign_storebg_Apocalypse2_FP
+901000280    =    Puffer Fish    =    Icon_callsign_storebg_Sushikiller_EP_A
+901000281    =    Octopus    =    Icon_callsign_storebg_Sushikiller_EP_B
+901000282    =    Greenish death    =    Icon_callsign_storebg_Sushikiller_FP
+901000283    =    Deep sea sensation    =    Icon_callsign_storebg_Faimplague2
+901000284    =    Youth heart    =    Icon_callsign_storebg_Captainbubble
+901000285    =    Royal Flush    =    Icon_callsign_storebg_College
+901000286    =    Game Streamer    =    Icon_callsign_storebg_Poker
+901000287    =    Private Eye    =    Icon_callsign_storebg_Streamerguy
+901000288    =    Season 17 Silver Banner    =    Icon_callsign_storebg_Detective
+901000289    =    Season 17 Gold Banner    =    Icon_callsign_storebg_Rank17_01
+901000290    =    Season 17 Platinum Banner    =    Icon_callsign_storebg_Rank17_02
+901000291    =    Season 17 Diamond Banner    =    Icon_callsign_storebg_Rank17_03
+901000292    =    Season 17 Heroic Banner    =    Icon_callsign_storebg_Rank17_04
+901000293    =    Wise Omens    =    Icon_callsign_storebg_Rank17_05
+901000294    =    Wings of Flame    =    Icon_callsign_storebg_Imperialegypt_EP_A
+901000295    =    Anubis Legend II    =    Icon_callsign_storebg_Imperialegypt_EP_B
+901000296    =    Devil Street    =    Icon_callsign_storebg_Imperialegypt_FP
+901000297    =    Devil's Fight    =    Icon_callsign_storebg_Angeldevil_EP_A
+901000298    =    Celestial Street    =    Icon_callsign_storebg_Angeldevil_EP_B
+901000299    =    Hysteric Maniac    =    Icon_callsign_storebg_Angeldevil_FP
+901000300    =    Spirited Overseers    =    Icon_callsign_storebg_Gemini2
+901000301    =    Gangster Tempo    =    Icon_callsign_storebg_FoxMiko
+901000302    =    Season 18 Silver Banner    =    Icon_callsign_storebg_GangsterRAP
+901000303    =    Season 18 Gold Banner    =    Icon_callsign_storebg_Rank18_01
+901000304    =    Season 18 Platinum Banner    =    Icon_callsign_storebg_Rank18_02
+901000305    =    Season 18 Diamond Banner    =    Icon_callsign_storebg_Rank18_03
+901000306    =    Season 18 Heroic Banner    =    Icon_callsign_storebg_Rank18_04
+901000307    =    Justice Fighter    =    Icon_callsign_storebg_Rank18_05
+901000308    =    MAX exclusive banner    =    Icon_callsign_storebg_SwatGuy
+901000309    =    Endless Black    =    Icon_callsign_storebg_MaxBanner
+901000310    =    Endless White    =    Icon_callsign_storebg_Impermanence_EP_A
+901000311    =    Endless Oblivion    =    Icon_callsign_storebg_Impermanence_EP_B
+901000312    =    Stage Starlet    =    Icon_callsign_storebg_Impermanence_FP
+901000313    =    Stage Master    =    Icon_callsign_storebg_Fashiontrends_EP_A
+901000314    =    Ultrasonic Rave    =    Icon_callsign_storebg_Fashiontrends_EP_B
+901000315    =    Booyah Day 2020    =    Icon_callsign_storebg_Fashiontrends_FP
+901000316    =    Haunting Night    =    Icon_callsign_storebg_Booyahday
+901000317    =    Swordsman Legends    =    Icon_callsign_storebg_Pumpkin2020
+901000318    =    Gamers' Paradise    =    Icon_callsign_storebg_Warringstates
+901000319    =    MMA Fighter    =    Icon_callsign_storebg_Futuristiccity
+901000320    =    Party Animal    =    Icon_callsign_storebg_MMAFighter
+901000321    =    Master of Minds    =    Icon_callsign_storebg_Partygirl
+901000322    =    Fuji Folklore    =    Icon_callsign_storebg_Professor
+901000323    =    Koi Voyage    =    Icon_callsign_storebg_Yakuza_EP_A
+901000324    =    Triad Romance    =    Icon_callsign_storebg_Yakuza_EP_B
+901000325    =    Specter Squad    =    Icon_callsign_storebg_Yakuza_FP
+901000326    =    Ghoul Incoming    =    Icon_callsign_storebg_Soulbusters_EP_A
+901000327    =    Specter Raid    =    Icon_callsign_storebg_Soulbusters_EP_B
+901000328    =    One Punch Man Banner    =    Icon_callsign_storebg_Soulbusters_FP
+901000329    =    Winterlands 2020    =    Icon_callsign_storebg_Megapunch
+901000330    =    CS Ranked Glory    =    Icon_callsign_storebg_Winterfest2020
+901000331    =    CS Ranked Season 4 Silver    =    Icon_callsign_storebg_CSRank_Flash
+901000332    =    CS Ranked Season 4 Gold    =    Icon_callsign_storebg_CSRank4_01
+901000333    =    CS Ranked Season 4 Platinum    =    Icon_callsign_storebg_CSRank4_02
+901000334    =    CS Ranked Season 4 Diamond    =    Icon_callsign_storebg_CSRank4_03
+901000335    =    CS Ranked Season 4 Heroic    =    Icon_callsign_storebg_CSRank4_04
+901000336    =    Season 19 Silver Banner    =    Icon_callsign_storebg_CSRank4_05
+901000337    =    Season 19 Gold Banner    =    Icon_callsign_storebg_Rank19_01
+901000338    =    Season 19 Platinum Banner    =    Icon_callsign_storebg_Rank19_02
+901000339    =    Season 19 Diamond Banner    =    Icon_callsign_storebg_Rank19_03
+901000340    =    Season 19 Heroic Banner    =    Icon_callsign_storebg_Rank19_04
+901000341    =    Season 20 Silver Banner    =    Icon_callsign_storebg_Rank19_05
+901000342    =    Season 20 Gold Banner    =    Icon_callsign_storebg_Rank20_01
+901000343    =    Season 20 Platinum Banner    =    Icon_callsign_storebg_Rank20_02
+901000344    =    Season 20 Diamond Banner    =    Icon_callsign_storebg_Rank20_03
+901000345    =    Season 20 Heroic Banner    =    Icon_callsign_storebg_Rank20_04
+901000346    =    Dr. Nanotech    =    Icon_callsign_storebg_Rank20_05
+901000347    =    Cosmic Bounty Hunter    =    Icon_callsign_storebg_Researcher
+901000348    =    Celebrate diversity    =    Icon_callsign_storebg_Bounty
+901000349    =    Bloodwing City    =    Icon_callsign_storebg_RUCIS
+901026001    =    Bloodsuckers    =    Icon_callsign_storebg_Vampirebat_EP_A
+901026002    =    Bats at Night    =    Icon_callsign_storebg_Vampirebat_EP_B
+901026003    =    Willful Wonders    =    Icon_callsign_storebg_Vampirebat_FP
+901026004    =    Rabbit Trick    =    Icon_callsign_storebg_Alicehatter_EP_A
+901026005    =    Pokers    =    Icon_callsign_storebg_Alicehatter_EP_B
+901026006    =    Superstar    =    Icon_callsign_storebg_Alicehatter_FP
+901026007    =    Hurricane Delivery    =    Icon_callsign_storebg_Superstar
+901026008    =    Egg Day 2021    =    Icon_callsign_storebg_Delivery
+901026009    =    Legendary Cobra    =    Icon_callsign_storebg_Eggday2021
+901026010    =    CS Ranked Season 5 Silver    =    Icon_callsign_storebg_Cobra
+901026011    =    CS Ranked Season 5 Gold    =    Icon_callsign_storebg_CSRank5_01
+901026012    =    CS Ranked Season 5 Platinum    =    Icon_callsign_storebg_CSRank5_02
+901026013    =    CS Ranked Season 5 Diamond    =    Icon_callsign_storebg_CSRank5_03
+901026014    =    CS Ranked Season 5 Heroic    =    Icon_callsign_storebg_CSRank5_04
+901026015    =    Season 21 Silver Banner    =    Icon_callsign_storebg_CSRank5_05
+901026016    =    Season 21 Gold Banner    =    Icon_callsign_storebg_Rank21_01
+901026017    =    Season 21 Platinum Banner    =    Icon_callsign_storebg_Rank21_02
+901026018    =    Season 21 Diamond Banner    =    Icon_callsign_storebg_Rank21_03
+901026019    =    Season 21 Heroic Banner    =    Icon_callsign_storebg_Rank21_04
+901026020    =    Cobra Flash    =    Icon_callsign_storebg_Rank21_05
+901026021    =    Water Fest 2021    =    Icon_callsign_storebg_Cobra_Flash
+901026022    =    Theatre of Torment    =    Icon_callsign_storebg_Waterfest21
+901027001    =    Cursed Magician    =    Icon_callsign_storebg_Horrorcircus_EP_A
+901027002    =    Peekaboo    =    Icon_callsign_storebg_Horrorcircus_EP_B
+901027003    =    Evil Enchanted    =    Icon_callsign_storebg_Horrorcircus_FP
+901027004    =    Princess Afterdark    =    Icon_callsign_storebg_Crystalslipper_EP_A
+901027005    =    Prince Afterdark    =    Icon_callsign_storebg_Crystalslipper_EP_B
+901027006    =    The Falconer    =    Icon_callsign_storebg_Crystalslipper_FP
+901027007    =    Xtreme Adventure    =    Icon_callsign_storebg_Falconer
+901027008    =    CS Ranked Season 6 Silver    =    Icon_callsign_storebg_Xtreme
+901027009    =    CS Ranked Season 6 Gold    =    Icon_callsign_storebg_CSRank6_01
+901027010    =    CS Ranked Season 6 Platinum    =    Icon_callsign_storebg_CSRank6_02
+901027011    =    CS Ranked Season 6 Diamond    =    Icon_callsign_storebg_CSRank6_03
+901027012    =    CS Ranked Season 6 Heroic    =    Icon_callsign_storebg_CSRank6_04
+901027013    =    K.O. Night    =    Icon_callsign_storebg_CSRank6_05
+901027014    =    FFWS 2021    =    Icon_callsign_storebg_Boxer
+901027015    =    Season 22 Silver Banner    =    Icon_callsign_storebg_FFWS2021
+901027016    =    Season 22 Gold Banner    =    Icon_callsign_storebg_Rank22_01
+901027017    =    Season 22 Platinum Banner    =    Icon_callsign_storebg_Rank22_02
+901027018    =    Season 22 Diamond Banner    =    Icon_callsign_storebg_Rank22_03
+901027019    =    Season 22 Heroic Banner    =    Icon_callsign_storebg_Rank22_04
+901027020    =    Battle Royale Grandmaster 1    =    Icon_callsign_storebg_Rank22_05
+901027021    =    Battle Royale Grandmaster 2    =    Icon_callsign_storebg_RANK_TOP_LV1
+901027022    =    Battle Royale Grandmaster 3    =    Icon_callsign_storebg_RANK_TOP_LV2
+901027023    =    Battle Royale Grandmaster 4    =    Icon_callsign_storebg_RANK_TOP_LV3
+901027024    =    Battle Royale Grandmaster 5    =    Icon_callsign_storebg_RANK_TOP_LV4
+901027025    =    Battle Royale Grandmaster 6    =    Icon_callsign_storebg_RANK_TOP_LV5
+901027026    =    Battle Royale Grandmaster 7    =    Icon_callsign_storebg_RANK_TOP_LV6
+901027027    =    Clash Squad Grandmaster 1    =    Icon_callsign_storebg_RANK_TOP_LV7
+901027028    =    Clash Squad Grandmaster 2    =    Icon_callsign_storebg_CSRANK_TOP_LV1
+901027029    =    Clash Squad Grandmaster 3    =    Icon_callsign_storebg_CSRANK_TOP_LV2
+901027030    =    Clash Squad Grandmaster 4    =    Icon_callsign_storebg_CSRANK_TOP_LV3
+901027031    =    Clash Squad Grandmaster 5    =    Icon_callsign_storebg_CSRANK_TOP_LV4
+901027032    =    Clash Squad Grandmaster 6    =    Icon_callsign_storebg_CSRANK_TOP_LV5
+901027033    =    Clash Squad Grandmaster 7    =    Icon_callsign_storebg_CSRANK_TOP_LV6
+901027034    =    Elite Pass Club    =    Icon_callsign_storebg_CSRANK_TOP_LV7
+901027035    =    Guns for Hire    =    Icon_callsign_storebg_EP_Rebuy
+901028001    =    Going for Bounty    =    Icon_callsign_storebg_Pursuer_EP_A
+901028002    =    The Pursuer    =    Icon_callsign_storebg_Pursuer_EP_B
+901028003    =    Wildland Walkers    =    Icon_callsign_storebg_Pursuer_FP
+901028004    =    Black Crow    =    Icon_callsign_storebg_Scarecrow_EP_A
+901028005    =    Scarecrow Land    =    Icon_callsign_storebg_Scarecrow_EP_B
+901028006    =    Streetbeat Artist    =    Icon_callsign_storebg_Scarecrow_FP
+901028007    =    Azure Stormbringer    =    Icon_callsign_storebg_StreetBeat
+901028008    =    Frost Sabertooth    =    Icon_callsign_storebg_Foursymbols_A
+901028009    =    Volcanic Whirlwind    =    Icon_callsign_storebg_Foursymbols_B
+901028010    =    Shadow Earthshaker    =    Icon_callsign_storebg_Foursymbols_C
+901028011    =    CS Ranked Season 7 Silver    =    Icon_callsign_storebg_Foursymbols_D
+901028012    =    CS Ranked Season 7 Gold    =    Icon_callsign_storebg_CSRank7_01
+901028013    =    CS Ranked Season 7 Platinum    =    Icon_callsign_storebg_CSRank7_02
+901028014    =    CS Ranked Season 7 Diamond    =    Icon_callsign_storebg_CSRank7_03
+901028015    =    CS Ranked Season 7 Heroic    =    Icon_callsign_storebg_CSRank7_04
+901028016    =    McLaren Racing Banner    =    Icon_callsign_storebg_CSRank7_05
+901028017    =    Street Fighter Banner    =    Icon_callsign_storebg_Supercar
+901028018    =    Season 23 Silver Banner    =    Icon_callsign_storebg_Sutorito
+901028019    =    Season 23 Gold Banner    =    Icon_callsign_storebg_Rank23_01
+901028020    =    Season 23 Platinum Banner    =    Icon_callsign_storebg_Rank23_02
+901028021    =    Season 23 Diamond Banner    =    Icon_callsign_storebg_Rank23_03
+901028022    =    Season 23 Heroic Banner    =    Icon_callsign_storebg_Rank23_04
+901028023    =    Sauce Swagger    =    Icon_callsign_storebg_Rank23_05
+901028024    =    Mesmerizing Nights    =    Icon_callsign_storebg_Fallwinter
+901029001    =    Dreamy Mist    =    Icon_callsign_storebg_Arabictales_A
+901029002    =    Unseen Wonders    =    Icon_callsign_storebg_Arabictales_B
+901029003    =    Quantic Unknown    =    Icon_callsign_storebg_Arabictales_FP
+901029004    =    Malevolent Sting    =    Icon_callsign_storebg_Scorpion_A
+901029005    =    The Toxins    =    Icon_callsign_storebg_Scorpion_B
+901029006    =    Treble Rocker    =    Icon_callsign_storebg_Scorpion_FP
+901029007    =    Bass Rocker    =    Icon_callsign_storebg_MusicBro_A
+901029008    =    Turn Up    =    Icon_callsign_storebg_MusicBro_B
+901029009    =    Moco Month Banner    =    Icon_callsign_storebg_Musicfest
+901029010    =    Regal Adornment    =    Icon_callsign_storebg_Mocomonth
+901029011    =    CS Ranked Season 8 Silver    =    Icon_callsign_storebg_TRroyal
+901029012    =    CS Ranked Season 8 Gold    =    Icon_callsign_storebg_CSRank8_01
+901029013    =    CS Ranked Season 8 Platinum    =    Icon_callsign_storebg_CSRank8_02
+901029014    =    CS Ranked Season 8 Diamond    =    Icon_callsign_storebg_CSRank8_03
+901029015    =    CS Ranked Season 8 Heroic    =    Icon_callsign_storebg_CSRank8_04
+901029016    =    BR Ranked Heroic    =    Icon_callsign_storebg_CSRank8_05
+901029017    =    CS Ranked Heroic    =    Icon_callsign_storebg_BRRank_New
+901029018    =    Season 24 Silver Banner    =    Icon_callsign_storebg_CSRank_New
+901029019    =    Season 24 Gold Banner    =    Icon_callsign_storebg_Rank24_01
+901029020    =    Season 24 Platinum Banner    =    Icon_callsign_storebg_Rank24_02
+901029021    =    Season 24 Diamond Banner    =    Icon_callsign_storebg_Rank24_03
+901029022    =    Season 24 Heroic Banner    =    Icon_callsign_storebg_Rank24_04
+901029023    =    Palace of Poker    =    Icon_callsign_storebg_Rank24_05
+901030001    =    Navy Destiny    =    Icon_callsign_storebg_Playingcard_A
+901030002    =    Turquoise Serenity    =    Icon_callsign_storebg_Playingcard_B
+901030003    =    Inferno Rage    =    Icon_callsign_storebg_Playingcard_FP
+901030004    =    Shining Rage    =    Icon_callsign_storebg_Darkdragon_A
+901030005    =    Crimson Claws    =    Icon_callsign_storebg_Darkdragon_B
+901030006    =    Basketball Life    =    Icon_callsign_storebg_Darkdragon_FP
+901030007    =    Creative Doer    =    Icon_callsign_storebg_Booyahday21
+901030008    =    Ornamental Azure    =    Icon_callsign_storebg_Sugarskull21
+901030009    =    CS Ranked Season 9 Silver    =    Icon_callsign_storebg_Khokhloma
+901030010    =    CS Ranked Season 9 Gold    =    Icon_callsign_storebg_CSRank9_01
+901030011    =    CS Ranked Season 9 Platinum    =    Icon_callsign_storebg_CSRank9_02
+901030012    =    CS Ranked Season 9 Diamond    =    Icon_callsign_storebg_CSRank9_03
+901030013    =    CS Ranked Season 9 Heroic    =    Icon_callsign_storebg_CSRank9_04
+901030014    =    Season 25 Silver Banner    =    Icon_callsign_storebg_CSRank9_05
+901030015    =    Season 25 Gold Banner    =    Icon_callsign_storebg_Rank25_01
+901030016    =    Season 25 Platinum Banner    =    Icon_callsign_storebg_Rank25_02
+901030017    =    Season 25 Diamond Banner    =    Icon_callsign_storebg_Rank25_03
+901030018    =    Season 25 Heroic Banner    =    Icon_callsign_storebg_Rank25_04
+901030019    =    Neon Toxic    =    Icon_callsign_storebg_Rank25_05
+901030020    =    The Honorable Banner    =    Icon_callsign_storebg_Evilrhythm
+901030021    =    Honorable Wolf Banner    =    Icon_callsign_storebg_Guildwar_A
+901030022    =    Honorable Lion Banner    =    Icon_callsign_storebg_Guildwar_B
+901030023    =    LBFF Banner    =    Icon_callsign_storebg_Guildwar_C
+901030024    =    Extraterrestrial Soul    =    Icon_callsign_storebg_Lbff
+901031001    =    Extraterrestrial Mind    =    Icon_callsign_storebg_Alienpilot_A
+901031002    =    Childhood Dream    =    Icon_callsign_storebg_Alienpilot_B
+901031003    =    Paper Wings    =    Icon_callsign_storebg_Alienpilot_FP
+901031004    =    Folded Flap    =    Icon_callsign_storebg_Origami_A
+901031005    =    Soaring Swan    =    Icon_callsign_storebg_Origami_B
+901031006    =    Blizzard Fighter    =    Icon_callsign_storebg_Origami_FP
+901031007    =    Invincible Trap Banner    =    Icon_callsign_storebg_Winterguy
+901031008    =    Blue Ace    =    Icon_callsign_storebg_RUmusician
+901031009    =    Red Flakes    =    Icon_callsign_storebg_THagent
+901031010    =    Winter Bloom    =    Icon_callsign_storebg_Winterfest21
+901031011    =    CS Ranked Season 10 Silver    =    Icon_callsign_storebg_Newyear21
+901031012    =    CS Ranked Season 10 Gold    =    Icon_callsign_storebg_CSRank10_01
+901031013    =    CS Ranked Season 10 Platinum    =    Icon_callsign_storebg_CSRank10_02
+901031014    =    CS Ranked Season 10 Diamond    =    Icon_callsign_storebg_CSRank10_03
+901031015    =    CS Ranked Season 10 Heroic    =    Icon_callsign_storebg_CSRank10_04
+901031016    =    CS Ranked Season 10 Master    =    Icon_callsign_storebg_CSRank10_05
+901031017    =    Season 26 Silver Banner    =    Icon_callsign_storebg_CSRank10_06
+901031018    =    Season 26 Gold Banner    =    Icon_callsign_storebg_Rank26_01
+901031019    =    Season 26 Platinum Banner    =    Icon_callsign_storebg_Rank26_02
+901031020    =    Season 26 Diamond Banner    =    Icon_callsign_storebg_Rank26_03
+901031021    =    Season 26 Heroic Banner    =    Icon_callsign_storebg_Rank26_04
+901031022    =    Season 26 Master Banner    =    Icon_callsign_storebg_Rank26_05
+901031023    =    Lone Wolf Ranked Silver Banner    =    Icon_callsign_storebg_Rank26_06
+901031024    =    Lone Wolf Ranked Gold Banner    =    Icon_callsign_storebg_LoneWolf_01
+901031025    =    Lone Wolf Ranked Platinum Banner    =    Icon_callsign_storebg_LoneWolf_02
+901031026    =    Lone Wolf Ranked Diamond Banner    =    Icon_callsign_storebg_LoneWolf_03
+901031027    =    Lone Wolf Ranked Heroic Banner    =    Icon_callsign_storebg_LoneWolf_04
+901031028    =    Lone Wolf Ranked Master Banner    =    Icon_callsign_storebg_LoneWolf_05
+901031029    =    Golden Ocean    =    Icon_callsign_storebg_LoneWolf_06
+901031030    =    Blood Ink    =    Icon_callsign_storebg_Veteran
+901031031    =    Season 25 Master Banner    =    Icon_callsign_storebg_Jumpsuit2
+901031032    =    Bronzed Owl    =    Icon_callsign_storebg_Rank25_06
+901032001    =    Machine Dolly    =    Icon_callsign_storebg_Steamwarrior_A
+901032002    =    Night Neon    =    Icon_callsign_storebg_Steamwarrior_B
+901032003    =    Azure Myth    =    Icon_callsign_storebg_Steamwarrior_FP
+901032004    =    Ink of the Past    =    Icon_callsign_storebg_Inkbrush_A
+901032005    =    Midnight Prose    =    Icon_callsign_storebg_Inkbrush_B
+901032006    =    Scoped-In Banner    =    Icon_callsign_storebg_Inkbrush_FP
+901032008    =    Crystallized    =    Icon_callsign_storebg_TRbullet
+901032009    =    Newbie Lights Banner    =    Icon_callsign_storebg_Hurricane
+901032010    =    CS Cup Banner I    =    Icon_callsign_storebg_Newbie
+901032011    =    CS Cup Banner II    =    Icon_callsign_storebg_Cup_01
+901032012    =    CS Cup Banner III    =    Icon_callsign_storebg_Cup_02
+901032013    =    CS Cup Banner IV    =    Icon_callsign_storebg_Cup_03
+901032014    =    CS Cup Banner V    =    Icon_callsign_storebg_Cup_04
+901032015    =    CS Cup Banner VI    =    Icon_callsign_storebg_Cup_05
+901032016    =    CS Ranked Season 11 Silver    =    Icon_callsign_storebg_Cup_06
+901032017    =    CS Ranked Season 11 Gold    =    Icon_callsign_storebg_CSRank11_01
+901032018    =    CS Ranked Season 11 Platinum    =    Icon_callsign_storebg_CSRank11_02
+901032019    =    CS Ranked Season 11 Diamond    =    Icon_callsign_storebg_CSRank11_03
+901032020    =    CS Ranked Season 11 Heroic    =    Icon_callsign_storebg_CSRank11_04
+901032021    =    CS Ranked Season 11 Master    =    Icon_callsign_storebg_CSRank11_05
+901032022    =    Season 27 Silver Banner    =    Icon_callsign_storebg_CSRank11_06
+901032023    =    Season 27 Gold Banner    =    Icon_callsign_storebg_Rank27_01
+901032024    =    Season 27 Platinum Banner    =    Icon_callsign_storebg_Rank27_02
+901032025    =    Season 27 Diamond Banner    =    Icon_callsign_storebg_Rank27_03
+901032026    =    Season 27 Heroic Banner    =    Icon_callsign_storebg_Rank27_04
+901032027    =    Season 27 Master Banner    =    Icon_callsign_storebg_Rank27_05
+901032028    =    Creed Banner    =    Icon_callsign_storebg_Rank27_06
+901032029    =    Knight Mind Banner    =    Icon_callsign_storebg_Hoodedkiller
+901033001    =    Rook Master Banner    =    Icon_callsign_storebg_Chess_A
+901033002    =    Art of Chess    =    Icon_callsign_storebg_Chess_B
+901033003    =    Pink Facade Banner    =    Icon_callsign_storebg_Chess_FP
+901033004    =    Golden Facade Banner    =    Icon_callsign_storebg_Cyberopera_A
+901033005    =    Azure Theatre    =    Icon_callsign_storebg_Cyberopera_B
+901033006    =    Honorable Fighters Banner    =    Icon_callsign_storebg_Cyberopera_FP
+901033007    =    Loyal Bladesmith Banner    =    Icon_callsign_storebg_FFWS03
+901033009    =    Frenzy Bunny Banner    =    Icon_callsign_storebg_Blacksmith
+901033010    =    Cherished Emerald Banner    =    Icon_callsign_storebg_Eggday22
+901033011    =    Golden Beast Banner    =    Icon_callsign_storebg_Fastbreaking22
+901033012    =    FFPL IV Banner    =    Icon_callsign_storebg_RUactivity
+901033013    =    Girl Power! Banner    =    Icon_callsign_storebg_FFPL_S4
+901033014    =    Turquoise Spirit Banner    =    Icon_callsign_storebg_EUWS_S3
+901033015    =    Pink Courage Banner    =    Icon_callsign_storebg_EuropeBoyGirl_A
+901033016    =    Mystic Pride Banner    =    Icon_callsign_storebg_EuropeBoyGirl_B
+901033017    =    CS Ranked Season 12 Silver    =    Icon_callsign_storebg_Veteran2
+901033018    =    CS Ranked Season 12 Gold    =    Icon_callsign_storebg_CSRank12_01
+901033019    =    CS Ranked Season 12 Platinum    =    Icon_callsign_storebg_CSRank12_02
+901033020    =    CS Ranked Season 12 Diamond    =    Icon_callsign_storebg_CSRank12_03
+901033021    =    CS Ranked Season 12 Heroic    =    Icon_callsign_storebg_CSRank12_04
+901033022    =    CS Ranked Season 12 Master    =    Icon_callsign_storebg_CSRank12_05
+901033023    =    Season 28 Silver Banner    =    Icon_callsign_storebg_CSRank12_06
+901033024    =    Season 28 Gold Banner    =    Icon_callsign_storebg_Rank28_01
+901033025    =    Season 28 Platinum Banner    =    Icon_callsign_storebg_Rank28_02
+901033026    =    Season 28 Diamond Banner    =    Icon_callsign_storebg_Rank28_03
+901033027    =    Season 28 Heroic Banner    =    Icon_callsign_storebg_Rank28_04
+901033028    =    Season 28 Master Banner    =    Icon_callsign_storebg_Rank28_05
+901033029    =    LW Ranked Season 1 Silver Banner    =    Icon_callsign_storebg_Rank28_06
+901033030    =    LW Ranked Season 1 Gold Banner    =    Icon_callsign_storebg_LoneWolf01_01
+901033031    =    LW Ranked Season 1 Platinum Banner    =    Icon_callsign_storebg_LoneWolf01_02
+901033032    =    LW Ranked Season 1 Diamond Banner    =    Icon_callsign_storebg_LoneWolf01_03
+901033033    =    LW Ranked Season 1 Heroic Banner    =    Icon_callsign_storebg_LoneWolf01_04
+901033034    =    LW Ranked Season 1 Master Banner    =    Icon_callsign_storebg_LoneWolf01_05
+901033035    =    Bomb Squad Ranked Silver Banner    =    Icon_callsign_storebg_LoneWolf01_06
+901033036    =    Bomb Squad Ranked Gold Banner    =    Icon_callsign_storebg_BombSquad_01
+901033037    =    Bomb Squad Ranked Platinum Banner    =    Icon_callsign_storebg_BombSquad_02
+901033038    =    Bomb Squad Ranked Diamond Banner    =    Icon_callsign_storebg_BombSquad_03
+901033039    =    Bomb Squad Ranked Heroic Banner    =    Icon_callsign_storebg_BombSquad_04
+901034001    =    Bumble Conquer Banner    =    Icon_callsign_storebg_Cyberwasp_A
+901034002    =    Bee Soldier Banner    =    Icon_callsign_storebg_Cyberwasp_B
+901034003    =    Steamed Seafood Banner    =    Icon_callsign_storebg_Cyberwasp_FP
+901034004    =    Pot of Luck Banner    =    Icon_callsign_storebg_Kongfu_A
+901034005    =    Skilled Cook Banner    =    Icon_callsign_storebg_Kongfu_B
+901034006    =    Rampage Solar Banner    =    Icon_callsign_storebg_Kongfu_FP
+901034007    =    Rampage Ruby Banner    =    Icon_callsign_storebg_Rampage4_01
+901034008    =    Rampage Arctic Banner    =    Icon_callsign_storebg_Rampage4_02
+901034009    =    Rampage Myst Banner    =    Icon_callsign_storebg_Rampage4_03
+901034010    =    CS-Ranked S13 Silver Banner    =    Icon_callsign_storebg_Rampage4_04
+901034011    =    CS-Ranked S13 Gold Banner    =    Icon_callsign_storebg_CSRank13_01
+901034012    =    CS-Ranked S13 Platinum Banner    =    Icon_callsign_storebg_CSRank13_02
+901034013    =    CS-Ranked S13 Diamond Banner    =    Icon_callsign_storebg_CSRank13_03
+901034014    =    CS-Ranked S13 Heroic Banner    =    Icon_callsign_storebg_CSRank13_04
+901034015    =    CS-Ranked S13 Master Banner    =    Icon_callsign_storebg_CSRank13_05
+901034016    =    BR-Ranked S29 Silver Banner    =    Icon_callsign_storebg_CSRank13_06
+901034017    =    BR-Ranked S29 Gold Banner    =    Icon_callsign_storebg_Rank29_01
+901034018    =    BR-Ranked S29 Platinum Banner    =    Icon_callsign_storebg_Rank29_02
+901034019    =    BR-Ranked S29 Diamond Banner    =    Icon_callsign_storebg_Rank29_03
+901034020    =    BR-Ranked S29 Heroic Banner    =    Icon_callsign_storebg_Rank29_04
+901034021    =    BR-Ranked S29 Master Banner    =    Icon_callsign_storebg_Rank29_05
+901034022    =    LW-Ranked S2 Silver Banner    =    Icon_callsign_storebg_Rank29_06
+901034023    =    LW-Ranked S2 Gold Banner    =    Icon_callsign_storebg_LoneWolf02_01
+901034024    =    LW-Ranked S2 Platinum Banner    =    Icon_callsign_storebg_LoneWolf02_02
+901034025    =    LW-Ranked S2 Diamond Banner    =    Icon_callsign_storebg_LoneWolf02_03
+901034026    =    LW-Ranked S2 Heroic Banner    =    Icon_callsign_storebg_LoneWolf02_04
+901034027    =    LW-Ranked S2 Master Banner    =    Icon_callsign_storebg_LoneWolf02_05
+901034028    =    Bomb Squad Ranked S1 Silver Banner    =    Icon_callsign_storebg_LoneWolf02_06
+901034029    =    Bomb Squad Ranked S1 Gold Banner    =    Icon_callsign_storebg_BombSquad01_01
+901034030    =    Bomb Squad Ranked S1 Platinum Banner    =    Icon_callsign_storebg_BombSquad01_02
+901034031    =    Bomb Squad Ranked S1 Diamond Banner    =    Icon_callsign_storebg_BombSquad01_03
+901034032    =    Bomb Squad Ranked S1 Heroic Banner    =    Icon_callsign_storebg_BombSquad01_04
+901034033    =    Bomb Squad Ranked S1 Master Banner    =    Icon_callsign_storebg_BombSquad01_05
+901034034    =    Dawn of Glory Banner    =    Icon_callsign_storebg_BombSquad01_06
+901034035    =    Girl Power S4 Banner    =    Icon_callsign_storebg_FFPL_S5
+901034036    =    Creator Banner    =    Icon_callsign_storebg_EUWS_S4
+901034037    =    Sound Crafter Banner    =    Icon_callsign_storebg_FFWS_EUROPE
+901034038    =    Digital Play Banner    =    Icon_callsign_storebg_RhythmGirl
+901034039    =    Sightless Assassin Banner    =    Icon_callsign_storebg_BIS
+901035001    =    Death Tooth Banner    =    Icon_callsign_storebg_Deepseasharks_EP_A
+901035002    =    Ocean Monster Banner    =    Icon_callsign_storebg_Deepseasharks_EP_B
+901035003    =    Flame Oni Banner    =    Icon_callsign_storebg_Deepseasharks_FP
+901035004    =    Ice Oni Banner    =    Icon_callsign_storebg_Fcninja_EP_A
+901035005    =    Ninja Blade Banner    =    Icon_callsign_storebg_Fcninja_EP_B
+901035006    =    5th Anniversary Banner    =    Icon_callsign_storebg_Fcninja_FP
+901035007    =    Blue Beast Banner    =    Icon_callsign_storebg_Digitaluniverse
+901035008    =    Tech-modded Assassin Banner    =    Icon_callsign_storebg_School35
+901035009    =    CS-Ranked S14 Silver Banner    =    Icon_callsign_storebg_Crazygirl
+901035010    =    CS-Ranked S14 Gold Banner    =    Icon_callsign_storebg_CSRank14_01
+901035011    =    CS-Ranked S14 Platinum Banner    =    Icon_callsign_storebg_CSRank14_02
+901035012    =    CS-Ranked S14 Diamond Banner    =    Icon_callsign_storebg_CSRank14_03
+901035013    =    CS-Ranked S14 Heroic Banner    =    Icon_callsign_storebg_CSRank14_04
+901035014    =    CS-Ranked S14 Master Banner    =    Icon_callsign_storebg_CSRank14_05
+901035015    =    BR-Ranked S30 Silver Banner    =    Icon_callsign_storebg_CSRank14_06
+901035016    =    BR-Ranked S30 Gold Banner    =    Icon_callsign_storebg_Rank30_01
+901035017    =    BR-Ranked S30 Platinum Banner    =    Icon_callsign_storebg_Rank30_02
+901035018    =    BR-Ranked S30 Diamond Banner    =    Icon_callsign_storebg_Rank30_03
+901035019    =    BR-Ranked S30 Heroic Banner    =    Icon_callsign_storebg_Rank30_04
+901035020    =    BR-Ranked S30 Master Banner    =    Icon_callsign_storebg_Rank30_05
+901035022    =    Adventurous Songster Banner    =    Icon_callsign_storebg_Ugc
+901035023    =    Champion Banner    =    Icon_callsign_storebg_Singers
+901035024    =    Comic Monster Banner    =    Icon_callsign_storebg_Champion
+901036001    =    Comic Villain Banner    =    Icon_callsign_storebg_Frankenstein_EP_A
+901036002    =    Iron Beast Banner    =    Icon_callsign_storebg_Frankenstein_EP_B
+901036003    =    Triangular Snowflake Banner    =    Icon_callsign_storebg_Frankenstein_FP
+901036004    =    Bad Hat Banner    =    Icon_callsign_storebg_Icewizard_EP_A
+901036005    =    Cyan Iceworld Banner    =    Icon_callsign_storebg_Icewizard_EP_B
+901036006    =    Thieving Confidence Banner    =    Icon_callsign_storebg_Icewizard_FP
+901036007    =    Flaming Beast    =    Icon_callsign_storebg_Yakuza
+901036008    =    Naïve Whiskers Banner    =    Icon_callsign_storebg_Lightfest22
+901036009    =    CS-Ranked S15 Silver Banner    =    Icon_callsign_storebg_Ghost_TH
+901036010    =    CS-Ranked S15 Gold Banner    =    Icon_callsign_storebg_CSRank15_01
+901036011    =    CS-Ranked S15 Platinum Banner    =    Icon_callsign_storebg_CSRank15_02
+901036012    =    CS-Ranked S15 Diamond Banner    =    Icon_callsign_storebg_CSRank15_03
+901036013    =    CS-Ranked S15 Heroic Banner    =    Icon_callsign_storebg_CSRank15_04
+901036014    =    CS-Ranked S15 Master Banner    =    Icon_callsign_storebg_CSRank15_05
+901036015    =    BR-Ranked S31 Silver Banner    =    Icon_callsign_storebg_CSRank15_06
+901036016    =    BR-Ranked S31 Gold Banner    =    Icon_callsign_storebg_Rank31_01
+901036017    =    BR-Ranked S31 Platinum Banner    =    Icon_callsign_storebg_Rank31_02
+901036018    =    BR-Ranked S31 Diamond Banner    =    Icon_callsign_storebg_Rank31_03
+901036019    =    BR-Ranked S31 Heroic Banner    =    Icon_callsign_storebg_Rank31_04
+901036020    =    BR-Ranked S31 Master Banner    =    Icon_callsign_storebg_Rank31_05
+901036021    =    Deatheye's Pistol Banner    =    Icon_callsign_storebg_Rank31_06
+901036022    =    LW-Ranked S3 Silver Banner    =    Icon_callsign_storebg_Sniper_EU
+901036023    =    LW-Ranked S3 Gold Banner    =    Icon_callsign_storebg_LoneWolf03_01
+901036024    =    LW-Ranked S3 Platinum Banner    =    Icon_callsign_storebg_LoneWolf03_02
+901036025    =    LW-Ranked S3 Diamond Banner    =    Icon_callsign_storebg_LoneWolf03_03
+901036026    =    LW-Ranked S3 Heroic Banner    =    Icon_callsign_storebg_LoneWolf03_04
+901036027    =    LW-Ranked S3 Master Banner    =    Icon_callsign_storebg_LoneWolf03_05
+901036028    =    Bomb Squad Ranked S2 Silver Banner    =    Icon_callsign_storebg_LoneWolf03_06
+901036029    =    Bomb Squad Ranked S2 Gold Banner    =    Icon_callsign_storebg_BombSquad02_01
+901036030    =    Bomb Squad Ranked S2 Platinum Banner    =    Icon_callsign_storebg_BombSquad02_02
+901036031    =    Bomb Squad Ranked S2 Diamond Banner    =    Icon_callsign_storebg_BombSquad02_03
+901036032    =    Bomb Squad Ranked S2 Heroic Banner    =    Icon_callsign_storebg_BombSquad02_04
+901036033    =    Bomb Squad Ranked S2 Master Banner    =    Icon_callsign_storebg_BombSquad02_05
+901036034    =    FFWS Iceblue Banner    =    Icon_callsign_storebg_BombSquad02_06
+901036035    =    Change Maker Banner    =    Icon_callsign_storebg_FFWS2022
+901036036    =    Evil Emoji Banner    =    Icon_callsign_storebg_GangGirl
+901037001    =    Cutie Emoji Banner    =    Icon_callsign_storebg_Emoji_BP
+901037002    =    Sky of Stars    =    Icon_callsign_storebg_Emoji_FP
+901037003    =    Flaming Glory Banner    =    Icon_callsign_storebg_FFWS2022_Free
+901037004    =    Rocker Skull Banner    =    Icon_callsign_storebg_BRsoccer
+901037005    =    CS-Ranked S16 Silver Banner    =    Icon_callsign_storebg_Winterfest22
+901037006    =    CS-Ranked S16 Gold Banner    =    Icon_callsign_storebg_CSRank16_01
+901037007    =    CS-Ranked S16 Platinum Banner    =    Icon_callsign_storebg_CSRank16_02
+901037008    =    CS-Ranked S16 Diamond Banner    =    Icon_callsign_storebg_CSRank16_03
+901037009    =    CS-Ranked S16 Heroic Banner    =    Icon_callsign_storebg_CSRank16_04
+901037010    =    CS-Ranked S16 Master Banner    =    Icon_callsign_storebg_CSRank16_05
+901037011    =    BR-Ranked S32 Silver Banner    =    Icon_callsign_storebg_CSRank16_06
+901037012    =    BR-Ranked S32 Gold Banner    =    Icon_callsign_storebg_Rank32_01
+901037013    =    BR-Ranked S32 Platinum Banner    =    Icon_callsign_storebg_Rank32_02
+901037014    =    BR-Ranked S32 Diamond Banner    =    Icon_callsign_storebg_Rank32_03
+901037015    =    BR-Ranked S32 Heroic Banner    =    Icon_callsign_storebg_Rank32_04
+901037016    =    BR-Ranked S32 Master Banner    =    Icon_callsign_storebg_Rank32_05
+901037017    =    Cyber Lifestyle    =    Icon_callsign_storebg_Rank32_06
+901037019    =    Champion Spirit Banner    =    Icon_callsign_storebg_Cyber_EU
+901037020    =    Prime Elite Banner    =    Icon_callsign_storebg_FFWS2022_Esports
+901037021    =    Crocochamp Banner    =    Icon_callsign_storebg_Souvenirs
+901038001    =    Crocoslayer Banner    =    Icon_callsign_storebg_Alligator_BP
+901038002    =    Qualia Wave Banner    =    Icon_callsign_storebg_Alligator_EP
+901038003    =    Project Qualia Banner    =    Icon_callsign_storebg_Cybermech_BP
+901038004    =    Meta Celebrity Banner    =    Icon_callsign_storebg_Cybermech_EP
+901038005    =    Blizzard Brawler Banner    =    Icon_callsign_storebg_Designer
+901038006    =    Technocity Banner    =    Icon_callsign_storebg_Skisuit
+901038012    =    Mount Breeze Banner    =    Icon_callsign_storebg_Colorfest23
+901038013    =    Pop-Pow Banner    =    Icon_callsign_storebg_EU_JP
+901038014    =    CS-Ranked S17 Silver Banner    =    Icon_callsign_storebg_ES
+901038015    =    CS-Ranked S17 Gold Banner    =    Icon_callsign_storebg_CSRank17_01
+901038016    =    CS-Ranked S17 Platinum Banner    =    Icon_callsign_storebg_CSRank17_02
+901038017    =    CS-Ranked S17 Diamond Banner    =    Icon_callsign_storebg_CSRank17_03
+901038018    =    CS-Ranked S17 Heroic Banner    =    Icon_callsign_storebg_CSRank17_04
+901038019    =    CS-Ranked S17 Master Banner    =    Icon_callsign_storebg_CSRank17_05
+901038020    =    BR-Ranked S33 Silver Banner    =    Icon_callsign_storebg_CSRank17_06
+901038021    =    BR-Ranked S33 Gold Banner    =    Icon_callsign_storebg_Rank33_01
+901038022    =    BR-Ranked S33 Platinum Banner    =    Icon_callsign_storebg_Rank33_02
+901038023    =    BR-Ranked S33 Diamond Banner    =    Icon_callsign_storebg_Rank33_03
+901038024    =    BR-Ranked S33 Heroic Banner    =    Icon_callsign_storebg_Rank33_04
+901038025    =    BR-Ranked S33 Master Banner    =    Icon_callsign_storebg_Rank33_05
+901038026    =    Raptor Banner    =    Icon_callsign_storebg_Rank33_06
+901038028    =    Thunderbolt Banner    =    Icon_callsign_storebg_ME_Esport
+901038029    =    Trophy Banner    =    Icon_callsign_storebg_VN_Playoffs1
+901038030    =    Thumbs Up Banner    =    Icon_callsign_storebg_VN_Playoffs2
+901038031    =    Lightbulb Banner    =    Icon_callsign_storebg_VN_KOL1
+901038032    =    Carnival Banner    =    Icon_callsign_storebg_VN_KOL2
+901038034    =    Merry Fishy Banner    =    Icon_callsign_storebg_Carnaval
+901039001    =    Bubble Waters Banner    =    Icon_callsign_storebg_Fishtank_BP
+901039002    =    Skate Mania Banner    =    Icon_callsign_storebg_Fishtank_EP
+901039003    =    Zesty Rollers Banner    =    Icon_callsign_storebg_Rollerskating_BP
+901039004    =    Comic Chaos Banner    =    Icon_callsign_storebg_Rollerskating_EP
+901039005    =    Chaos Signal Banner    =    Icon_callsign_storebg_Comic_BP
+901039006    =    Vengeful Beast Banner    =    Icon_callsign_storebg_Comic_EP
+901039007    =    Scorpio Banner    =    Icon_callsign_storebg_Villain
+901039008    =    Unveiled Truth Banner    =    Icon_callsign_storebg_Scarlet_1
+901039009    =    Angry Bomb Banner    =    Icon_callsign_storebg_Scarlet_2
+901039010    =    EVOS Champion Banner    =    Icon_callsign_storebg_Thug
+901039011    =    Festive Dawn Banner    =    Icon_callsign_storebg_Champion_ES
+901039012    =    FFML S7 Banner    =    Icon_callsign_storebg_BDFest
+901039013    =    Crystal Void Banner    =    Icon_callsign_storebg_Braveman
+901039014    =    Aqua Lad Banner    =    Icon_callsign_storebg_Darkspace
+901039015    =    CS-Ranked S18 Silver Banner    =    Icon_callsign_storebg_Waterfest23
+901039017    =    CS-Ranked S18 Gold Banner    =    Icon_callsign_storebg_CSRank18_01
+901039018    =    CS-Ranked S18 Platinum Banner    =    Icon_callsign_storebg_CSRank18_02
+901039019    =    CS-Ranked S18 Diamond Banner    =    Icon_callsign_storebg_CSRank18_03
+901039020    =    CS-Ranked S18 Heroic Banner    =    Icon_callsign_storebg_CSRank18_04
+901039021    =    CS-Ranked S18 Master Banner    =    Icon_callsign_storebg_CSRank18_05
+901039022    =    BR-Ranked S34 Silver Banner    =    Icon_callsign_storebg_CSRank18_06
+901039023    =    BR-Ranked S34 Gold Banner    =    Icon_callsign_storebg_Rank34_01
+901039024    =    BR-Ranked S34 Platinum Banner    =    Icon_callsign_storebg_Rank34_02
+901039025    =    BR-Ranked S34 Diamond Banner    =    Icon_callsign_storebg_Rank34_03
+901039026    =    BR-Ranked S34 Heroic Banner    =    Icon_callsign_storebg_Rank34_04
+901039027    =    BR-Ranked S34 Master Banner    =    Icon_callsign_storebg_Rank34_05
+901039028    =    Synthetic Strike Banner    =    Icon_callsign_storebg_Rank34_06
+901040001    =    Synthetic Surge Banner    =    Icon_callsign_storebg_Artificial_BP
+901040002    =    T.R.A.P. City Banner    =    Icon_callsign_storebg_Artificial_FP
+901040003    =    T.R.A.P. City Spirit Banner    =    Icon_callsign_storebg_Traphiphop22_BP
+901040004    =    Nano Scientists Banner    =    Icon_callsign_storebg_Traphiphop22_FP
+901040005    =    Chromatic T.R.A.P. Banner    =    Icon_callsign_storebg_Nanoscientist
+901040006    =    Sunset Explorer Banner    =    Icon_callsign_storebg_Traphiphop22
+901040007    =    Bunny Leader Banner    =    Icon_callsign_storebg_Farmer
+901040008    =    FFTC 2023 Banner    =    Icon_callsign_storebg_Festivalme_22
+901040009    =    CS-Ranked S19 Silver Banner    =    Icon_callsign_storebg_Esports_TH
+901040010    =    CS-Ranked S19 Gold Banner    =    Icon_callsign_storebg_CSRank19_01
+901040011    =    CS-Ranked S19 Platinum Banner    =    Icon_callsign_storebg_CSRank19_02
+901040012    =    CS-Ranked S19 Diamond Banner    =    Icon_callsign_storebg_CSRank19_03
+901040013    =    CS-Ranked S19 Heroic Banner    =    Icon_callsign_storebg_CSRank19_04
+901040014    =    CS-Ranked S19 Master Banner    =    Icon_callsign_storebg_CSRank19_05
+901040015    =    BR-Ranked S35 Silver Banner    =    Icon_callsign_storebg_CSRank19_06
+901040016    =    BR-Ranked S35 Gold Banner    =    Icon_callsign_storebg_Rank35_01
+901040017    =    BR-Ranked S35 Platinum Banner    =    Icon_callsign_storebg_Rank35_02
+901040018    =    BR-Ranked S35 Diamond Banner    =    Icon_callsign_storebg_Rank35_03
+901040019    =    BR-Ranked S35 Heroic Banner    =    Icon_callsign_storebg_Rank35_04
+901040020    =    BR-Ranked S35 Master Banner    =    Icon_callsign_storebg_Rank35_05
+901040021    =    Achievement Collector Banner    =    Icon_callsign_storebg_Rank35_06
+901040022    =    Achievement Specialist Banner    =    Icon_callsign_storebg_Goal_1
+901040023    =    6th Anniversary Banner    =    Icon_callsign_storebg_Goal_2
+901040025    =    CS-Ranked S20 Silver Banner    =    Icon_callsign_storebg_Sixth
+901040026    =    CS-Ranked S20 Gold Banner    =    Icon_callsign_storebg_CSRank20_01
+901040027    =    CS-Ranked S20 Platinum Banner    =    Icon_callsign_storebg_CSRank20_02
+901040028    =    CS-Ranked S20 Diamond Banner    =    Icon_callsign_storebg_CSRank20_03
+901040029    =    CS-Ranked S20 Heroic Banner    =    Icon_callsign_storebg_CSRank20_04
+901040030    =    CS-Ranked S20 Master Banner    =    Icon_callsign_storebg_CSRank20_05
+901040031    =    Diamond VIP Banner    =    Icon_callsign_storebg_CSRank20_06
+901040032    =    Legendary VIP Banner    =    Icon_callsign_storebg_Vnvip_Purple
+901040033    =    Super Cricketer Banner    =    Icon_callsign_storebg_Vnvip_Red
+901040034    =    Jelly Assault Banner    =    Icon_callsign_storebg_CricketGuy
+901041001    =    Fishing Frenzy Banner    =    Icon_callsign_storebg_Slime_FP
+901041002    =    Rise of the Puppets Banner    =    Icon_callsign_storebg_Fisherman_FP
+901041003    =    Shadow Assassin Banner    =    Icon_callsign_storebg_Designertoys_FP
+901041004    =    Ink Stroke Banner    =    Icon_callsign_storebg_Assassingirl
+901041005    =    Fiery Flash Banner    =    Icon_callsign_storebg_Inkpainting
+901041006    =    CS-Ranked S21 Silver Banner    =    Icon_callsign_storebg_Ninja
+901041008    =    CS-Ranked S21 Gold Banner    =    Icon_callsign_storebg_CSRank21_01
+901041009    =    CS-Ranked S21 Platinum Banner    =    Icon_callsign_storebg_CSRank21_02
+901041010    =    CS-Ranked S21 Diamond Banner    =    Icon_callsign_storebg_CSRank21_03
+901041011    =    CS-Ranked S21 Heroic Banner    =    Icon_callsign_storebg_CSRank21_04
+901041012    =    CS-Ranked S21 Master Banner    =    Icon_callsign_storebg_CSRank21_05
+901041013    =    BR-Ranked S36 Silver Banner    =    Icon_callsign_storebg_CSRank21_06
+901041014    =    BR-Ranked S36 Gold Banner    =    Icon_callsign_storebg_Rank36_01
+901041015    =    BR-Ranked S36 Platinum Banner    =    Icon_callsign_storebg_Rank36_02
+901041016    =    BR-Ranked S36 Diamond Banner    =    Icon_callsign_storebg_Rank36_03
+901041017    =    BR-Ranked S36 Heroic Banner    =    Icon_callsign_storebg_Rank36_04
+901041018    =    BR-Ranked S36 Master Banner    =    Icon_callsign_storebg_Rank36_05
+901041019    =    Rampage Finale Banner    =    Icon_callsign_storebg_Rank36_06
+901041020    =    Tanjiro Style Banner    =    Icon_callsign_storebg_Rampage23
+901041021    =    BR-Ranked S34 Match Banner    =    Icon_callsign_storebg_DS
+901041022    =    CS-Ranked S20 Match Banner    =    Icon_callsign_storebg_ME34
+901041023    =    Galactic Odyssey Banner    =    Icon_callsign_storebg_ME20
+901042001    =    Electri City Banner    =    Icon_callsign_storebg_Watcher_FP
+901042002    =    Untamed Flame Banner    =    Icon_callsign_storebg_Voltage_FP
+901042003    =    Diwali 2023 Banner    =    Icon_callsign_storebg_Superteen
+901042004    =    CS-Ranked S22 Silver Banner    =    Icon_callsign_storebg_Lightfest23
+901042005    =    CS-Ranked S22 Gold Banner    =    Icon_callsign_storebg_CSRank22_01
+901042006    =    CS-Ranked S22 Platinum Banner    =    Icon_callsign_storebg_CSRank22_02
+901042007    =    CS-Ranked S22 Diamond Banner    =    Icon_callsign_storebg_CSRank22_03
+901042008    =    CS-Ranked S22 Heroic Banner    =    Icon_callsign_storebg_CSRank22_04
+901042009    =    CS-Ranked S22 Master Banner    =    Icon_callsign_storebg_CSRank22_05
+901042010    =    BR-Ranked S37 Heroic Banner    =    Icon_callsign_storebg_CSRank22_06
+901042011    =    BR-Ranked S37 Master Banner    =    Icon_callsign_storebg_Rank37_A
+901042012    =    The "70" Banner    =    Icon_callsign_storebg_Rank37_B
+901042013    =    Frostfire Banner    =    Icon_callsign_storebg_Level70
+901042014    =    Centurion League Banner    =    Icon_callsign_storebg_Theboy
+901042015    =    Premier Circle Banner    =    Icon_callsign_storebg_Guild100
+901042016    =    Hundred Honors Banner    =    Icon_callsign_storebg_Guild10
+901042017    =    Unity Unleashed Banner    =    Icon_callsign_storebg_Guild100_Purple
+901042018    =    Synergy Surge Banner    =    Icon_callsign_storebg_GuildRank6
+901042019    =    Glossy Nightfall Banner    =    Icon_callsign_storebg_GuildRank7
+901043002    =    Tales of Puddles Banner    =    Icon_callsign_storebg_Pointed_FP
+901043004    =    Fury Reverie Banner    =    Icon_callsign_storebg_Frog_FP
+901043006    =    Mechanical Genius Banner    =    Icon_callsign_storebg_Asura_FP
+901043007    =    Emperor's New Banner    =    Icon_callsign_storebg_Geek
+901043008    =    Black, White, Meow Banner    =    Icon_callsign_storebg_Aprilfool24
+901043009    =    CS-Ranked S23 Heroic Banner    =    Icon_callsign_storebg_Waterfest24
+901043010    =    CS-Ranked S23 Master Banner    =    Icon_callsign_storebg_CSRank23_01
+901043011    =    CS-Ranked S24 Heroic Banner    =    Icon_callsign_storebg_CSRank23_02
+901043012    =    CS-Ranked S24 Master Banner    =    Icon_callsign_storebg_CSRank24_01
+901043013    =    BR-Ranked S38 Heroic Banner    =    Icon_callsign_storebg_CSRank24_02
+901043014    =    BR-Ranked S38 Master Banner    =    Icon_callsign_storebg_Rank38_01
+901043015    =    Pixel Reality Banner    =    Icon_callsign_storebg_Rank38_02
+901044001    =    Twilight's End Banner    =    Icon_callsign_storebg_Videogame_FP
+901044002    =    Dual Guardian Banner    =    Icon_callsign_storebg_Fragment_FP
+901044003    =    The Paradox Banner    =    Icon_callsign_storebg_Dualman
+901044004    =    Blade of the Silence Banner    =    Icon_callsign_storebg_Persona
+901044005    =    CS-Ranked S25 Heroic Banner    =    Icon_callsign_storebg_Festivalme_24
+901044006    =    CS-Ranked S25 Master Banner    =    Icon_callsign_storebg_CSRank25_01
+901044007    =    BR-Ranked S39 Heroic Banner    =    Icon_callsign_storebg_CSRank25_02
+901044008    =    BR-Ranked S39 Master Banner    =    Icon_callsign_storebg_Rank39_01
+}
